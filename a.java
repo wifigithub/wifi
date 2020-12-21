@@ -1,4 +1,8 @@
 public class a{
+public void patchDemo(){
+//To do
+}
+
 	public void showString(String string)
 	{
 		System.out.println(string);
